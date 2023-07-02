@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "first commit"  (commitimiz istediyimiz weyi yaza bilerik)
+git branch -M main
+git remote add origin https://github.com/ElgunBayramov/Githuba-push-etme-yolu-part5.git  (repositorynin kodu hansini yukleyirikse)
+git push -u origin main
